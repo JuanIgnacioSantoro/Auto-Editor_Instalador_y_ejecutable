@@ -2,11 +2,10 @@
 Auto-Editor Instalador y ejecutable con varios comandos preestablecidos.
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <h1>Comandos en <span>CMD</span> para <span>auto-editor:</span></h1>
@@ -17,13 +16,4 @@ Auto-Editor Instalador y ejecutable con varios comandos preestablecidos.
     <p style="color:blue"> --margin (Margen de espaciado entre corte de inicio y corte de fin) <strong>0.2s</strong> (Modificar tiempo en segundos)</p>
     <strong>Valores a modificar</strong>
 </body>
-<style>
-strong {
-    color: white;
-    background-color:black;
-}
-body {
-    font-size: 24pt;
-}
-</style>
 </html>
